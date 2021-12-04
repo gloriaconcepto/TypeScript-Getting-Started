@@ -1,4 +1,4 @@
-# Project Name: A SIMPLY MULTI MATH GAME
+# Project Name: A MULTI MATH GAME
 
 ## Description:
 A simple project that get one hands dirty,and help build the basic concept
