@@ -1,10 +1,11 @@
-# TypeScript-Getting-Started
+# Project Name: A SIMPLY MULTI MATH GAME
 
-This is the official repository for my Pluralsight course titled [*TypeScript: Getting Started*](https://app.pluralsight.com/library/courses/typescript-getting-started/table-of-contents). 
-The *main* branch contains code as it 
-exists at the start of the course. There are separate branches named after the modules in the course that contain the code as it 
-exists at the end of that module.
+## Description:
+A simple project that get one hands dirty,and help build the basic concept
+of Typescript.
 
-I will update this repo below with any problems or small issues reported between updates to the actual course.
-
-Thanks for watching and good luck on your TypeScript projects!
+## Tools:
+1. Node.js
+2. Webpack
+3. javascript
+4. typescript
